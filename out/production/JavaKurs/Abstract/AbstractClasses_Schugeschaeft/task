@@ -1,0 +1,30 @@
+Aufgabenstellung:
+
+In dieser Aufgabe geht es darum, einzelne Schuhmodelle von bekannten Herstellern zu modellieren.
+Insgesamt gibt es in dem Laden Schuhe von der Marke Adidas (Modelle: NMD R1, ultraBoost), Nike (Modelle: NikeAir, NikeSB) und Timberland (Modelle: PremiumBoots, Boatshoes).
+
+Natürlich sind selbst die Modellnamen teilweise noch Überbegriffe, aber da die genauen Schuhbezeichnungen sehr lange sind,
+nehmen wir einfach an, dass alle Modelle tatsächlich spezifische Schuhmodelle sind, die genau so existieren.
+
+Jedes Modell soll am Ende folgende Eigenschaften besitzen:
+
+-sole (String)
+
+-material (String)
+
+-color (String)
+
+-waterproof (boolean)
+
+-brand (String)
+
+-guaranteeInDays (int)
+
+Jedes Modell soll am Ende folgende Methoden besitzen:
+
++tieShoes()
+
++cleanWithWater()
+
+Hinweis: Jede Marke besitzt eine eigene Garantiefrist und jedes Schuhmodell lässt sich anders binden.
+Zudem solltest Du Dir vorher überlegen, ob es Sinn macht, dass man von jeder Klasse Instanzen erzeugen kann.

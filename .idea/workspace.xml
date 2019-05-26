@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/salim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jsTestFinder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/contracts_library_impl_1_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/extension_impl_1_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/lib8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/myResources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/my_web_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/target.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FightClub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FightClub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses/Drivaeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses/Mercedes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses/SKlasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Adidas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Nike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/NmdR1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Shoe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Timberland.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/ultraBoost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_CopyConstructor/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_CopyConstructor/CarEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_CopyConstructor/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_False/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_False/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/SuperPower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/CarEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/CarEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Cow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_sortieren/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_MultiLanguage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashSet/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Iterator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Iterator/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/LinkedList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Castaway.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue_Rescue/Injured.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue_Rescue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Set_Students/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Set_Students/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/TreeSet/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/TreeSet/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface_Workers/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface_Workers/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums/Weekday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Alkohol/Alkohol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Alkohol/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_HappyEuro/FixKosten.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_HappyEuro/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Currency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Pencil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Pricelist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals_Hashmap_Danceschool/Dancer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals_Hashmap_Danceschool/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Array/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/LessCreditException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/LessWithdrawException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exception_throwConditional/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exception_throwConditional/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/ToOldException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/Heater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/HeaterException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/ToOldException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/ToOldException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Plate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Spoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics_Methoden/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics_Methoden/Texter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Buyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/SupermarketProducts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Transportable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/MoveCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Tesla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/CodeToRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/EmployeeLambdaSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/charAt/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/endsWith/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/indexOf/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/isEmpty/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/lastIndexOf/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/lenght/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/startsWith/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/substring/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/toLowerCase/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/toUpperCase/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/trim/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_001/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_001/Thread_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_002/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_002/Thread_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_03/Thread_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Join/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Join/Thread_Join.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Priorisieren/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Priorisieren/Thread_Priorisieren.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ToString/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ToString/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/KfW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Labrador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/UniCredit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/CommerzBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/DeutscheBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Assistant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/WrapperKlassen/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clone/Clone_CopyConstructor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clone/Clone_CopyConstructor/CarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/CarEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clone/Clone_CopyConstructor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/Interfaces/Buyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Interfaces/Buyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/Interfaces/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCA/001_DeclarationAndAccessControl/001/HelloArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCA/001_DeclarationAndAccessControl/001/HelloArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCA/001_DeclarationAndAccessControl/001/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCA/001_DeclarationAndAccessControl/001/MyClass.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaKurs$Main__3_.coverage" NAME="Main (3) Coverage Results" MODIFIED="1554537073178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Equals_Hashmap.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaKurs$Main__4_.coverage" NAME="Main (4) Coverage Results" MODIFIED="1555168003584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Exception.HeaterException.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaKurs$Main__2_.coverage" NAME="Main (2) Coverage Results" MODIFIED="1554548682435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>String.endsWith.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ArrayList</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/BankException.java" />
+        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/LessCreditException.java" />
+        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/LessWithdrawException.java" />
+        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/Bank.java" />
+        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_False/Car.java" />
+        <option value="$PROJECT_DIR$/src/Enums_Alkohol/Main.java" />
+        <option value="$PROJECT_DIR$/src/Enums_Shop/Pricelist.java" />
+        <option value="$PROJECT_DIR$/src/Enums_Alkohol/Alkohol.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_False/Main.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_001/Main.java" />
+        <option value="$PROJECT_DIR$/src/Exception/HeaterException/HeaterException.java" />
+        <option value="$PROJECT_DIR$/src/Exception/HeaterException/Main.java" />
+        <option value="$PROJECT_DIR$/src/Exception/HeaterException/Heater.java" />
+        <option value="$PROJECT_DIR$/src/Clone/AA/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Method/Car.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Method/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/CarEngine.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Car.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_tiefeKopie/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_tiefeKopie/CarEngine.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_tiefeKopie/Car.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_CopyConstructor/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_CopyConstructor/Car.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Human/SuperPower.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Human/Human.java" />
+        <option value="$PROJECT_DIR$/src/Clone/Clone_Human/Main.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_001/Thread_01.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_002/Main.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_03/Thread_03.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_03/Main.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_Priorisieren/Thread_02.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_002/Thread_02.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_Priorisieren/Thread_Priorisieren.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_Priorisieren/Main.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Thread_Join/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lambda/_001/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lambda/_002/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lambda/_002_Comperator/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lambda/_002_Comparator/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lambda/_002_Comparator/Main_withoutLambda.java" />
+        <option value="$PROJECT_DIR$/src/Lambda/_002_Comparator/Tets.java" />
+        <option value="$PROJECT_DIR$/src/Collections/TreeSet/Main.java" />
+        <option value="$PROJECT_DIR$/src/Equal/Equals/Student.java" />
+        <option value="$PROJECT_DIR$/src/Equal/Equals_Hashmap_Danceschool/Main.java" />
+        <option value="$PROJECT_DIR$/src/Equal/Equals_Hashmap_Danceschool/Dancer.java" />
+        <option value="$PROJECT_DIR$/src/Equal/Equals/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lambda/_002_Comparator/Main_withLambda.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Interfaces/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Interfaces/Buyable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="32" />
+    <option name="y" value="49" />
+    <option name="width" value="1918" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clone_Method_flacheKopie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Enums_Shop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Lambda\_002_Comparator" />
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Thread\Thread_Join" />
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Thread\Thread_Priorisieren" />
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Clone\Clone_CopyConstructor" />
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Clone\Clone_Method_tiefeKopie" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Equals_Hashmap" />
+      <recent name="Collections.Queues_PriorityQueue" />
+      <recent name="Collections.Queues" />
+      <recent name="Collections.HashSet_Students" />
+      <recent name="Collections.HashMap_MultiLanguage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Thread" />
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Queues.Main" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.Queues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.LinkedList.Main" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clone.Clone_Method_flacheKopie.Main" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clone.Clone_Method_flacheKopie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Equal.Equals.Main" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Equal.Equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_withLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda._002_Comparator.Main_withLambda" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda._002_Comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main_withLambda" />
+      <item itemvalue="Application.Main (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main_withLambda" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="" />
+      <created>1551778315641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551778315641</updated>
+      <workItem from="1552122881963" duration="27000" />
+      <workItem from="1552834040632" duration="147000" />
+      <workItem from="1553106437322" duration="1101000" />
+      <workItem from="1553326175797" duration="1734000" />
+      <workItem from="1558247001010" duration="817000" />
+      <workItem from="1558789971801" duration="1010000" />
+      <workItem from="1558885248521" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4939000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="32" y="49" width="1918" height="1015" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3439182" />
+      <window_info id="Nl-Palette" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4240363" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3276644" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32992464" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32992464" />
+      <window_info anchor="right" id="Structure" order="11" visible="true" weight="0.2497309" />
+      <window_info anchor="right" id="Maven" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2454252" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47732997" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924434" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32910052" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Vererbung/Main.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interfaces_Fuhrpark/Main.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interfaces_Fuhrpark/Main.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/CarEngine.java" />
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Human/SuperPower.java" />
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Human/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Human/Human.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_001/Thread_01.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_001/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="442" column="11" selection-start-line="442" selection-start-column="11" selection-end-line="442" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_03/Thread_03.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Priorisieren/Thread_02.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_03/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_002/Thread_02.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_002/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Priorisieren/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Priorisieren/Thread_Priorisieren.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Join/Thread_Join.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Interupt/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Synchronized/Program.java" />
+    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Join/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queues_PriorityQueue_Rescue/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Castaway.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Role.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Iterator/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Iterator/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Generics_Methoden/Texter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Generics_Methoden/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lambda/_002_Comparator/Main_withoutLambda.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lambda/_002_Comparator/ImportUtilCollection.java" />
+    <entry file="file://$PROJECT_DIR$/src/UC-P88F9PQF.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/Equal/Equals_Hashmap_Danceschool/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/TreeSet/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Equal/Equals_Hashmap_Danceschool/Dancer.java" />
+    <entry file="file://$PROJECT_DIR$/src/Equal/Equals/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Equal/Equals/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/LinkedList/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/ArrayList_sortieren/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queues/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queues_PriorityQueue/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lambda/_001/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/WrapperKlassen/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lambda/_002_Comparator/Main_withLambda.java" />
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/Buyable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/SupermarketProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/CarEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
