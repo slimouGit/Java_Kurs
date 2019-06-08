@@ -1,9 +1,11 @@
 package Interfaces;
 
+import Interface.Interfaces.Buyable;
+
 /**
  * Created by salim on 06.03.2019.
  */
-public class Fruit extends Interfaces.SupermarketProducts implements Interfaces.Buyable, Interfaces.Transportable {
+public class Fruit extends Interfaces.SupermarketProducts implements Buyable, Interfaces.Transportable {
     private String name;
     private int weight;
     private double price;

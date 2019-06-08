@@ -1,4 +1,4 @@
-package AbstractClasses;
+package Abstract.AbstractClasses;
 
 /**
  * Created by salim on 07.03.2019.
