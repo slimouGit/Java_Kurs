@@ -18,7 +18,7 @@ public class Stream_005_mapListToMethod {
 
         manipulated.stream().forEach(y -> out.println("Value: " + y));
 
-
+        manipulated.forEach(y -> out.println("Value: " + y));
     }
 
     private static int manipulateX(Integer result) {
