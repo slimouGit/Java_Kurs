@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/VarArgs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VarArgs/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,7 +31,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VarArgs/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VarArgs/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,15 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/BankException.java" />
-        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/LessCreditException.java" />
-        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/LessWithdrawException.java" />
-        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/Bank.java" />
-        <option value="$PROJECT_DIR$/src/Exception/BankAccountException/Main.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_False/Car.java" />
-        <option value="$PROJECT_DIR$/src/Enums_Alkohol/Main.java" />
-        <option value="$PROJECT_DIR$/src/Enums_Shop/Pricelist.java" />
-        <option value="$PROJECT_DIR$/src/Enums_Alkohol/Alkohol.java" />
         <option value="$PROJECT_DIR$/src/Clone/Clone_False/Main.java" />
         <option value="$PROJECT_DIR$/src/Thread/Thread_001/Main.java" />
         <option value="$PROJECT_DIR$/src/Exception/HeaterException/HeaterException.java" />
@@ -102,6 +114,15 @@
         <option value="$PROJECT_DIR$/src/Lambda/_002_Comparator/Main_withLambda.java" />
         <option value="$PROJECT_DIR$/src/Interface/Interfaces/Fruit.java" />
         <option value="$PROJECT_DIR$/src/Interface/Interfaces/Buyable.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/AbstractClasses/Mercedes.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/AbstractClasses/SKlasse.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Interfaces/Car.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Interfaces/Main.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/AbstractClasses/Main.java" />
+        <option value="$PROJECT_DIR$/src/VarArgs/Apple.java" />
+        <option value="$PROJECT_DIR$/src/VarArgs/Person.java" />
+        <option value="$PROJECT_DIR$/src/VarArgs/Main.java" />
       </list>
     </option>
   </component>
@@ -109,8 +130,6 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="143" />
-    <option name="y" value="26" />
     <option name="width" value="1918" />
     <option name="height" value="1015" />
   </component>
@@ -120,6 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,12 +153,16 @@
               <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VarArgs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.Queue_PriorityQueue_Shipwreck.Main" />
       <module name="JavaKurs" />
@@ -196,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.LinkedList.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarArgs.Main" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.LinkedList.*" />
+          <option name="PATTERN" value="VarArgs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,19 +326,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main_withLambda" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main_withLambda" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -336,16 +361,20 @@
       <workItem from="1558885248521" duration="103000" />
       <workItem from="1559972738236" duration="12000" />
       <workItem from="1559972776236" duration="388000" />
+      <workItem from="1559999501212" duration="275000" />
+      <workItem from="1560525250996" duration="796000" />
+      <workItem from="1560574390167" duration="1832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5339000" />
+    <option name="totallyTimeSpent" value="8242000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-30" y="211" width="1918" height="1015" extended-state="0" />
+    <frame x="0" y="0" width="1918" height="1015" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35145319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36275566" />
       <window_info id="Nl-Palette" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,7 +383,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5408163" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4240363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,7 +391,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3276644" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3276644" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -443,13 +472,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/CarEngine.java" />
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Human/SuperPower.java" />
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Car.java" />
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Human/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Human/Human.java" />
-    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_001/Thread_01.java" />
     <entry file="file://$PROJECT_DIR$/src/Thread/Thread_001/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -470,9 +492,6 @@
     <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Synchronized/Program.java" />
     <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Join/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Collections/Queues_PriorityQueue_Rescue/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Castaway.java" />
-    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Role.java" />
     <entry file="file://$PROJECT_DIR$/src/Collections/Iterator/Student.java" />
     <entry file="file://$PROJECT_DIR$/src/Collections/Iterator/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Generics_Methoden/Texter.java" />
@@ -506,24 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/SupermarketProducts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
         </state>
       </provider>
     </entry>
@@ -545,6 +550,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abstract/AbstractClasses/Mercedes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abstract/AbstractClasses/SKlasse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abstract/AbstractClasses/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Castaway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VarArgs/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VarArgs/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
