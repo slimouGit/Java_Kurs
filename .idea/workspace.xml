@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Streams/Stream_001_square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Stream_002_filterFirstLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Stream_003_forEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +39,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="289">
+              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Streams/Stream_001_square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Streams/Stream_002_filterFirstLetter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -384,18 +406,18 @@
       <workItem from="1559972776236" duration="388000" />
       <workItem from="1559999501212" duration="275000" />
       <workItem from="1560525250996" duration="796000" />
-      <workItem from="1560574390167" duration="5000000" />
+      <workItem from="1560574390167" duration="5382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11410000" />
+    <option name="totallyTimeSpent" value="11792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1918" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36275566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36275566" />
       <window_info id="Nl-Palette" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -404,8 +426,8 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4376417" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4240363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4376417" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4240363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -484,6 +506,12 @@
           <line>25</line>
           <properties />
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -673,8 +701,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Streams/Stream_001_square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -685,6 +713,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Streams/Stream_003_forEach.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -692,17 +727,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="289">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
         </state>
       </provider>
     </entry>

@@ -15,8 +15,10 @@ public class Stream_005_mapListToMethod {
 
         List<Integer> manipulated = number.stream().map(x -> manipulateX(x)).
                 collect(Collectors.toList());
-        
-        out.println(manipulated);
+
+        manipulated.stream().forEach(y -> out.println("Value: " + y));
+
+
     }
 
     private static int manipulateX(Integer result) {
