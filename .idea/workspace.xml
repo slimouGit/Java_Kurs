@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_001_square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_001_square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_003_forEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_003_forEach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_005_mapListToMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_005_mapListToMethod.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,47 +38,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Streams/Stream_003_forEach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Streams/Stream_001_square.java">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Streams/Stream_002_filterFirstLetter.java">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Door.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -82,6 +63,7 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -97,16 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Method/Car.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Method/Main.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/CarEngine.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Car.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Main.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_tiefeKopie/Main.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_tiefeKopie/CarEngine.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Method_tiefeKopie/Car.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_CopyConstructor/Main.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_CopyConstructor/Car.java" />
         <option value="$PROJECT_DIR$/src/Clone/Clone_Human/SuperPower.java" />
         <option value="$PROJECT_DIR$/src/Clone/Clone_Human/Human.java" />
         <option value="$PROJECT_DIR$/src/Clone/Clone_Human/Main.java" />
@@ -142,12 +114,22 @@
         <option value="$PROJECT_DIR$/src/VarArgs/Apple.java" />
         <option value="$PROJECT_DIR$/src/VarArgs/Person.java" />
         <option value="$PROJECT_DIR$/src/VarArgs/Main.java" />
-        <option value="$PROJECT_DIR$/src/VarArgs/TeamBuilding.java" />
         <option value="$PROJECT_DIR$/src/Streams/Stream_001_square.java" />
         <option value="$PROJECT_DIR$/src/Streams/Stream_002_filterFirstLetter.java" />
         <option value="$PROJECT_DIR$/src/Streams/Stream_003_forEach.java" />
         <option value="$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java" />
         <option value="$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java" />
+        <option value="$PROJECT_DIR$/src/VarArgs/TeamBuilding.java" />
+        <option value="$PROJECT_DIR$/src/Schedular/Dog.java" />
+        <option value="$PROJECT_DIR$/src/Schedular/Startup.java" />
+        <option value="$PROJECT_DIR$/src/Schedular/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/Schedular/Inject.java" />
+        <option value="$PROJECT_DIR$/src/Schedular/Schedule.java" />
+        <option value="$PROJECT_DIR$/src/Schedular/DogSchedular.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Wheel.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Door.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Car.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Porsche.java" />
       </list>
     </option>
   </component>
@@ -155,6 +137,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="16" />
+    <option name="y" value="25" />
     <option name="width" value="1918" />
     <option name="height" value="1015" />
   </component>
@@ -164,8 +148,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,13 +166,7 @@
               <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayList_Company" type="462c0819:PsiDirectoryNode" />
+              <item name="Composition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
@@ -216,9 +194,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Thread" />
-      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Schedular" />
+      <recent name="Enums_Shop" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Lambda\_002_Comparator" />
@@ -234,8 +212,9 @@
       <recent name="Collections.Queues" />
       <recent name="Collections.HashSet_Students" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Enums_Shop" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Thread" />
+      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -250,13 +229,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Stream_005_mapListToMethod">
-    <configuration name="Stream_001_square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Stream_001_square" />
+  <component name="RunManager" selected="Application.Porsche">
+    <configuration name="Porsche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composition.Porsche" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.*" />
+          <option name="PATTERN" value="Composition.simpleExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,19 +348,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Stream_001_square" />
       <item itemvalue="Application.Stream_002_filterFirstLetter" />
       <item itemvalue="Application.Stream_003_forEach" />
       <item itemvalue="Application.Stream_004_convertToSet" />
       <item itemvalue="Application.Stream_005_mapListToMethod" />
+      <item itemvalue="Application.Porsche" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Porsche" />
         <item itemvalue="Application.Stream_005_mapListToMethod" />
+        <item itemvalue="Application.Stream_002_filterFirstLetter" />
         <item itemvalue="Application.Stream_004_convertToSet" />
         <item itemvalue="Application.Stream_003_forEach" />
-        <item itemvalue="Application.Stream_002_filterFirstLetter" />
-        <item itemvalue="Application.Stream_001_square" />
       </list>
     </recent_temporary>
   </component>
@@ -406,18 +385,22 @@
       <workItem from="1559972776236" duration="388000" />
       <workItem from="1559999501212" duration="275000" />
       <workItem from="1560525250996" duration="796000" />
-      <workItem from="1560574390167" duration="5382000" />
+      <workItem from="1560574390167" duration="8254000" />
+      <workItem from="1560662973561" duration="1296000" />
+      <workItem from="1561020583278" duration="743000" />
+      <workItem from="1566657070835" duration="286000" />
+      <workItem from="1568310096831" duration="1060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11792000" />
+    <option name="totallyTimeSpent" value="18049000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1918" height="1015" extended-state="0" />
+    <frame x="16" y="25" width="1918" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36275566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37944025" />
       <window_info id="Nl-Palette" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,8 +409,8 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4376417" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4240363" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4376417" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4240363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -507,12 +490,6 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -521,22 +498,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Join/Thread_Join.java" />
-    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Interupt/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Synchronized/Program.java" />
-    <entry file="file://$PROJECT_DIR$/src/Thread/Thread_Join/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Collections/Queues_PriorityQueue_Rescue/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Collections/Iterator/Student.java" />
-    <entry file="file://$PROJECT_DIR$/src/Collections/Iterator/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Generics_Methoden/Texter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Generics_Methoden/Main.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lambda/_002_Comparator/Main_withoutLambda.java" />
     <entry file="file://$PROJECT_DIR$/src/Lambda/_002_Comparator/ImportUtilCollection.java" />
     <entry file="file://$PROJECT_DIR$/src/UC-P88F9PQF.jpg" />
@@ -664,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VarArgs/TeamBuilding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VarArgs/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -699,6 +653,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Streams/Stream_003_forEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Schedular/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/Schedular/Singleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/Schedular/Inject.java" />
+    <entry file="file://$PROJECT_DIR$/src/Schedular/Startup.java" />
+    <entry file="file://$PROJECT_DIR$/src/Schedular/Schedule.java" />
+    <entry file="file://$PROJECT_DIR$/src/Schedular/DogSchedular.java" />
+    <entry file="file://$PROJECT_DIR$/src/VarArgs/TeamBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Streams/Stream_001_square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -708,29 +689,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Streams/Stream_002_filterFirstLetter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Streams/Stream_003_forEach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+        <state relative-caret-position="391">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Wheel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Door.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Porsche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="true" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
