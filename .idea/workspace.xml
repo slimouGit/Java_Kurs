@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="" />
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Composition/simpleExample/as_Inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/simpleExample/as_Inheritance/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Composition/simpleExample/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/simpleExample/Car.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +33,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/as_Inheritance/Door.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/as_Inheritance/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -40,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/Door.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -69,10 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Human/Human.java" />
-        <option value="$PROJECT_DIR$/src/Clone/Clone_Human/Main.java" />
-        <option value="$PROJECT_DIR$/src/Thread/Thread_001/Thread_01.java" />
-        <option value="$PROJECT_DIR$/src/Thread/Thread_002/Main.java" />
         <option value="$PROJECT_DIR$/src/Thread/Thread_03/Thread_03.java" />
         <option value="$PROJECT_DIR$/src/Thread/Thread_03/Main.java" />
         <option value="$PROJECT_DIR$/src/Thread/Thread_Priorisieren/Thread_02.java" />
@@ -119,7 +138,11 @@
         <option value="$PROJECT_DIR$/src/Composition/Door.java" />
         <option value="$PROJECT_DIR$/src/Composition/Car.java" />
         <option value="$PROJECT_DIR$/src/Composition/Porsche.java" />
+        <option value="$PROJECT_DIR$/src/Composition/simpleExample/Door.java" />
         <option value="$PROJECT_DIR$/src/Composition/simpleExample/Car.java" />
+        <option value="$PROJECT_DIR$/src/Composition/simpleExample/Porsche.java" />
+        <option value="$PROJECT_DIR$/src/Composition/simpleExample/as_Inheritance/Car.java" />
+        <option value="$PROJECT_DIR$/src/Composition/simpleExample/as_Inheritance/Door.java" />
       </list>
     </option>
   </component>
@@ -127,8 +150,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
-    <option name="y" value="25" />
+    <option name="x" value="111" />
+    <option name="y" value="135" />
     <option name="width" value="1918" />
     <option name="height" value="1015" />
   </component>
@@ -157,6 +180,18 @@
               <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Composition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="as_Inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
@@ -219,7 +254,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Car">
+  <component name="RunManager" selected="Application.Car (1)">
+    <configuration name="Car (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composition.simpleExample.as_Inheritance.Car" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Composition.simpleExample.as_Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Composition.simpleExample.Car" />
       <module name="JavaKurs" />
@@ -248,19 +296,6 @@
     </configuration>
     <configuration name="Stream_002_filterFirstLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Streams.Stream_002_filterFirstLetter" />
-      <module name="JavaKurs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stream_004_convertToSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Stream_004_convertToSet" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
@@ -339,18 +374,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Stream_002_filterFirstLetter" />
-      <item itemvalue="Application.Stream_004_convertToSet" />
       <item itemvalue="Application.Stream_005_mapListToMethod" />
       <item itemvalue="Application.Porsche" />
       <item itemvalue="Application.Car" />
+      <item itemvalue="Application.Car (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Car (1)" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.Porsche" />
         <item itemvalue="Application.Stream_005_mapListToMethod" />
         <item itemvalue="Application.Stream_002_filterFirstLetter" />
-        <item itemvalue="Application.Stream_004_convertToSet" />
       </list>
     </recent_temporary>
   </component>
@@ -380,17 +415,18 @@
       <workItem from="1561020583278" duration="743000" />
       <workItem from="1566657070835" duration="286000" />
       <workItem from="1568310096831" duration="1357000" />
+      <workItem from="1568348424694" duration="1675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18346000" />
+    <option name="totallyTimeSpent" value="20021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="25" width="1918" height="1015" extended-state="0" />
+    <frame x="111" y="135" width="1918" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37944025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38374597" />
       <window_info id="Nl-Palette" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +435,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4376417" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4376417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4240363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -488,9 +524,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lambda/_002_Comparator/Main_withoutLambda.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lambda/_002_Comparator/ImportUtilCollection.java" />
-    <entry file="file://$PROJECT_DIR$/src/UC-P88F9PQF.jpg" />
     <entry file="file://$PROJECT_DIR$/src/Equal/Equals_Hashmap_Danceschool/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Collections/TreeSet/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Equal/Equals_Hashmap_Danceschool/Dancer.java" />
@@ -691,31 +724,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Wheel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Porsche.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" lean-forward="true" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Wheel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Composition/Porsche.java" />
     <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/Door.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/Porsche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/as_Inheritance/Door.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/as_Inheritance/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
