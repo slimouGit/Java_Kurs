@@ -20,5 +20,7 @@ public class CutlaryTray {
         ct.spoon.spoonSoup();
         ct.fork.forkLunch();
         ct.knife.cutLunch();
+
+        ct.spoon.kickTheBucket();
     }
 }

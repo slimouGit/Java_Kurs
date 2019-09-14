@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Fork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Knife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Spoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/GrandmasSilverware/CutlaryTray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Spoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Spoon.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,20 +30,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/CutlaryTray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composition/simpleExample/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Spoon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -140,10 +145,10 @@
         <option value="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Knife.java" />
         <option value="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Fork.java" />
         <option value="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Price.java" />
-        <option value="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Spoon.java" />
         <option value="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Fork.java" />
         <option value="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Knife.java" />
         <option value="$PROJECT_DIR$/src/Composition/GrandmasSilverware/CutlaryTray.java" />
+        <option value="$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Spoon.java" />
       </list>
     </option>
   </component>
@@ -436,18 +441,18 @@
       <workItem from="1568310096831" duration="1357000" />
       <workItem from="1568348424694" duration="1675000" />
       <workItem from="1568388151388" duration="1280000" />
-      <workItem from="1568441837696" duration="1703000" />
+      <workItem from="1568441837696" duration="1930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23004000" />
+    <option name="totallyTimeSpent" value="23231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="39" width="1918" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39235738" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39235738" />
       <window_info id="Nl-Palette" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -456,7 +461,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4376417" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4376417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4240363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -783,13 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Spoon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Fork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -813,8 +811,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/CutlaryTray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Spoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
         </state>
       </provider>
     </entry>
