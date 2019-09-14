@@ -2,6 +2,6 @@ package Composition.Pet;
 
 public class CleaningRoboter {
     void cleaningUp(){
-        System.out.println("The poo is cleaning up");
+        System.out.println("The poo will be cleaned up");
     }
 }
