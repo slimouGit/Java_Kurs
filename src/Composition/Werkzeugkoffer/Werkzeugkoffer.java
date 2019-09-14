@@ -2,10 +2,12 @@ package Composition.Werkzeugkoffer;
 
 import Composition.Werkzeugkoffer.Werkzeug.Hammer;
 import Composition.Werkzeugkoffer.Werkzeug.Schraubendreher;
+import Composition.Werkzeugkoffer.Werkzeug.Totenkopf;
 import Composition.Werkzeugkoffer.Werkzeug.Zange;
 
 public class Werkzeugkoffer {
 
+    private Totenkopf totenkopf;
     private Zange zange;
     private Hammer hammer;
     private Schraubendreher schraubendreher;
@@ -14,6 +16,7 @@ public class Werkzeugkoffer {
         this.schraubendreher = new Schraubendreher("Schraubendreher");
         this.hammer = new Hammer("Hammer");
         this.zange = new Zange("Zange");
+        this.totenkopf = new Totenkopf();
     }
 
     public static void main(String[] args){
@@ -23,5 +26,7 @@ public class Werkzeugkoffer {
         werkzeugkoffer.hammer.klopfbar();
         werkzeugkoffer.zange.drehbar();
         werkzeugkoffer.zange.ziehbar();
+
+        werkzeugkoffer.totenkopf.drehbar();
     }
 }
