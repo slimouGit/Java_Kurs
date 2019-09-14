@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Composition/Pet/CleaningRoboter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/Pet/CleaningRoboter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Hammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Zange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/CleaningRoboter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/CleaningRoboter.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,46 +40,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Dog.java">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Zange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Cat.java">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Hammer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Pet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Pet/CleaningRoboter.java">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -98,17 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Equal/Equals/Student.java" />
-        <option value="$PROJECT_DIR$/src/Equal/Equals_Hashmap_Danceschool/Main.java" />
-        <option value="$PROJECT_DIR$/src/Equal/Equals_Hashmap_Danceschool/Dancer.java" />
-        <option value="$PROJECT_DIR$/src/Equal/Equals/Main.java" />
-        <option value="$PROJECT_DIR$/src/Lambda/_002_Comparator/Main_withLambda.java" />
-        <option value="$PROJECT_DIR$/src/Interface/Interfaces/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/Interface/Interfaces/Buyable.java" />
-        <option value="$PROJECT_DIR$/src/Abstract/AbstractClasses/Mercedes.java" />
-        <option value="$PROJECT_DIR$/src/Abstract/AbstractClasses/SKlasse.java" />
-        <option value="$PROJECT_DIR$/src/Interfaces/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/Interface/Interfaces/Car.java" />
         <option value="$PROJECT_DIR$/src/Interface/Interfaces/Main.java" />
         <option value="$PROJECT_DIR$/src/Abstract/AbstractClasses/Main.java" />
         <option value="$PROJECT_DIR$/src/VarArgs/Apple.java" />
@@ -149,6 +174,17 @@
         <option value="$PROJECT_DIR$/src/Composition/Pet/Pet.java" />
         <option value="$PROJECT_DIR$/src/Composition/Pet/Animal.java" />
         <option value="$PROJECT_DIR$/src/Composition/Pet/CleaningRoboter.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopf.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Zange.java" />
+        <option value="$PROJECT_DIR$/src/String/ToString/Main.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Hammer.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.java" />
       </list>
     </option>
   </component>
@@ -225,7 +261,31 @@
               <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Werkzeugkoffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="NutzungsweiseWerkzeuge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Werkzeug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Streams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ToString" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
@@ -284,20 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pet">
-    <configuration name="Car (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Composition.simpleExample.as_Inheritance.Car" />
-      <module name="JavaKurs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Composition.simpleExample.as_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Werkzeugkoffer">
     <configuration name="CutlaryTray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Composition.GrandmasSilverware.CutlaryTray" />
       <module name="JavaKurs" />
@@ -343,6 +390,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Composition.Pet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Werkzeugkoffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composition.Werkzeugkoffer.Werkzeugkoffer" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Composition.Werkzeugkoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,19 +463,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Car (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.CutlaryTray" />
       <item itemvalue="Application.Pet" />
+      <item itemvalue="Application.Werkzeugkoffer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Werkzeugkoffer" />
         <item itemvalue="Application.Pet" />
         <item itemvalue="Application.CutlaryTray" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Car (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -447,12 +507,12 @@
       <workItem from="1568310096831" duration="1357000" />
       <workItem from="1568348424694" duration="1675000" />
       <workItem from="1568388151388" duration="1280000" />
-      <workItem from="1568441837696" duration="4849000" />
+      <workItem from="1568441837696" duration="8676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26150000" />
+    <option name="totallyTimeSpent" value="29977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="39" width="1918" height="1015" extended-state="0" />
@@ -467,7 +527,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4376417" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33673468" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4240363" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,7 +549,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32992464" />
-      <window_info anchor="right" id="Structure" order="11" visible="true" weight="0.2497309" />
+      <window_info anchor="right" id="Structure" order="11" weight="0.2497309" />
       <window_info anchor="right" id="Maven" order="12" />
     </layout>
     <layout-to-restore>
@@ -556,83 +616,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/Buyable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/SupermarketProducts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/CarEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clone/Clone_Method_flacheKopie/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Abstract/AbstractClasses/Mercedes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Abstract/AbstractClasses/SKlasse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface/Interfaces/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Abstract/AbstractClasses/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Gender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -824,24 +807,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -856,6 +825,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Pet/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/ToString/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/ToString/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Zange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Hammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
