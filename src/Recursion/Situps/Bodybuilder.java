@@ -10,8 +10,4 @@ public class Bodybuilder {
     public int getFitness() {
         return fitness;
     }
-
-    public void setFitness(int fitness) {
-        this.fitness = fitness;
-    }
 }

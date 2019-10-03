@@ -39,13 +39,6 @@ public class Situps {
         return repeat;
     }
 
-    public int getAmount() {
-        return amount;
-    }
-
-    public Bodybuilder getBb() {
-        return bb;
-    }
 
     public boolean isWin() {
         return win;
