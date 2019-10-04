@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Totenkopf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Situps/BodyBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Situps/SitupChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Situps/SitupChallengeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Wodka/Wodka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Wodka/WodkaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaKurs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKurs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_001_square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_001_square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_003_forEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_003_forEach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_005_mapListToMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_005_mapListToMethod.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,84 +40,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Zange.java">
+        <entry file="file://$PROJECT_DIR$/src/Recursion/Situps/BodyBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java">
+        <entry file="file://$PROJECT_DIR$/src/Recursion/Situps/SitupChallenge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="340">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Totenkopf.java">
+        <entry file="file://$PROJECT_DIR$/src/Recursion/Situps/SitupChallengeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Hammer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="61">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -136,13 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Abstract/AbstractClasses/Main.java" />
-        <option value="$PROJECT_DIR$/src/VarArgs/Apple.java" />
-        <option value="$PROJECT_DIR$/src/VarArgs/Person.java" />
-        <option value="$PROJECT_DIR$/src/VarArgs/Main.java" />
-        <option value="$PROJECT_DIR$/src/Streams/Stream_001_square.java" />
-        <option value="$PROJECT_DIR$/src/Streams/Stream_002_filterFirstLetter.java" />
-        <option value="$PROJECT_DIR$/src/Streams/Stream_003_forEach.java" />
         <option value="$PROJECT_DIR$/src/Streams/Stream_004_convertToSet.java" />
         <option value="$PROJECT_DIR$/src/Streams/Stream_005_mapListToMethod.java" />
         <option value="$PROJECT_DIR$/src/VarArgs/TeamBuilding.java" />
@@ -184,9 +132,16 @@
         <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.java" />
         <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.java" />
         <option value="$PROJECT_DIR$/src/String/ToString/Main.java" />
-        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java" />
         <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Totenkopf.java" />
+        <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java" />
         <option value="$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/Wodka/WodkaTest.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/Situps/Situps.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/Situps/SitupsTest.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/Situps/SitupChallengeTest.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/Situps/Bodybuilder.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/Situps/BodyBuilder.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/Situps/SitupChallenge.java" />
       </list>
     </option>
   </component>
@@ -221,79 +176,19 @@
               <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Queue_PriorityQueue_Shipwreck" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Composition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GrandmasSilverware" type="462c0819:PsiDirectoryNode" />
+              <item name="Situps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Cutlary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="simpleExample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="as_Inheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Werkzeugkoffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="NutzungsweiseWerkzeuge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Werkzeug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Streams" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ToString" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Kurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VarArgs" type="462c0819:PsiDirectoryNode" />
+              <item name="Wodka" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,6 +199,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -346,39 +245,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Werkzeugkoffer">
+  <component name="RunManager">
     <configuration name="CutlaryTray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Composition.GrandmasSilverware.CutlaryTray" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Composition.GrandmasSilverware.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Queue_PriorityQueue_Shipwreck.Main" />
-      <module name="JavaKurs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.Queue_PriorityQueue_Shipwreck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Queues_PriorityQueue_Rescue.Main" />
-      <module name="JavaKurs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.Queues_PriorityQueue_Rescue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,6 +272,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SitupChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Situps.SitupChallenge" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.Situps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Werkzeugkoffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Composition.Werkzeugkoffer.Werkzeugkoffer" />
       <module name="JavaKurs" />
@@ -408,6 +294,23 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SitupChallengeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.Situps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Recursion.Situps" />
+      <option name="MAIN_CLASS_NAME" value="Recursion.Situps.SitupChallengeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -465,19 +368,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.CutlaryTray" />
       <item itemvalue="Application.Pet" />
       <item itemvalue="Application.Werkzeugkoffer" />
+      <item itemvalue="Application.SitupChallenge" />
+      <item itemvalue="JUnit.SitupChallengeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SitupChallenge" />
+        <item itemvalue="JUnit.SitupChallengeTest" />
         <item itemvalue="Application.Werkzeugkoffer" />
         <item itemvalue="Application.Pet" />
         <item itemvalue="Application.CutlaryTray" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -509,18 +412,24 @@
       <workItem from="1568310096831" duration="1357000" />
       <workItem from="1568348424694" duration="1675000" />
       <workItem from="1568388151388" duration="1280000" />
-      <workItem from="1568441837696" duration="8964000" />
+      <workItem from="1568441837696" duration="11025000" />
+      <workItem from="1570174929702" duration="2615000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SitupsTest - 2019.10.04 at 10h 13m 43s.xml">
+      <configuration name="SitupsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30265000" />
+    <option name="totallyTimeSpent" value="34941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="39" width="1918" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39235738" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39666307" />
       <window_info id="Nl-Palette" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -529,8 +438,8 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33673468" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4240363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.069161" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23356009" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -617,35 +526,12 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Kurs$SitupsTest.ic" NAME="SitupsTest Coverage Results" MODIFIED="1570176807987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Recursion.Situps.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Castaway.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collections/Queue_PriorityQueue_Shipwreck/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VarArgs/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VarArgs/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Collections/ArrayList_Company/Cow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -760,13 +646,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Price.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Price.java" />
     <entry file="file://$PROJECT_DIR$/src/Composition/GrandmasSilverware/Cutlary/Fork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -837,45 +717,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug.java" />
     <entry file="file://$PROJECT_DIR$/src/String/ToString/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Hammer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -893,17 +739,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.java">
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -914,10 +753,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeugkoffer.java">
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Hammer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion/Wodka/WodkaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion/Situps/SitupChallengeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion/Situps/BodyBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion/Situps/SitupChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
