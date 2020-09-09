@@ -20,7 +20,7 @@ public class WeekDays {
         weekdays.put("Saturday", DaysOfWeek.SATURDAY);
         weekdays.put("Sunday", DaysOfWeek.SUNDAY);
 
-        findEnumDay(weekdays, 5);
+        findEnumDay(weekdays, 2);
     }
 
     private static void findEnumDay(Map<String, DaysOfWeek> weekdays, int i) {
@@ -40,6 +40,16 @@ public class WeekDays {
             counter++;
         }
         System.out.println(message);
+
+
+        StringBuilder url = new StringBuilder("www.eureka.de/");
+        for(int y = 0;y<weekdays.size();y++){
+            if(y==i){
+                url.append(weekdays.values().toArray()[y]);
+            }
+        }
+        System.out.println(url);
+
 
     }
 
