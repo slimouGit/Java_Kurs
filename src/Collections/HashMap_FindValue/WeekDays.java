@@ -43,10 +43,14 @@ public class WeekDays {
 
 
         StringBuilder url = new StringBuilder("www.eureka.de/");
-        for(int y = 0;y<weekdays.size();y++){
-            if(y==i){
-                url.append(weekdays.values().toArray()[y]);
+        if (i <= weekdays.size()) {
+            for (int y = 0; y < weekdays.size(); y++) {
+                if (y == i) {
+                    url.append(weekdays.values().toArray()[y]);
+                }
             }
+        }else{
+            url.append("NOTHHINGFOUND");
         }
         System.out.println(url);
 

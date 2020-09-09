@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collections/HashMap_FindValue/WeekDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/HashMap_FindValue/WeekDaysTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/META-INF/JavaKurs.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_001_square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_001_square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_002_filterFirstLetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_002_filterFirstLetter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_003_forEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_003_forEach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_005_mapListToMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_005_mapListToMethod.class" afterDir="false" />
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="LinkedHashMap counter">
+      <change beforePath="$PROJECT_DIR$/src/Collections/HashMap_FindValue/WeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashMap_FindValue/WeekDays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Collections/HashMap_FindValue/WeekDays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="-32">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -436,8 +426,16 @@
       <workItem from="1568388151388" duration="1280000" />
       <workItem from="1568441837696" duration="11025000" />
       <workItem from="1570174929702" duration="2615000" />
-      <workItem from="1599665679374" duration="3021000" />
+      <workItem from="1599665679374" duration="3522000" />
     </task>
+    <task id="LOCAL-00001" summary="LinkedHashMap counter">
+      <created>1599668752873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599668752873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -446,7 +444,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37962000" />
+    <option name="totallyTimeSpent" value="38463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="39" width="1918" height="1015" extended-state="0" />
@@ -462,7 +460,7 @@
       <window_info anchor="bottom" id="Sequence" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879817" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20975056" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30725622" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40702948" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -521,6 +519,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LinkedHashMap counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedHashMap counter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -851,8 +853,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Collections/HashMap_FindValue/WeekDays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="-32">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>
