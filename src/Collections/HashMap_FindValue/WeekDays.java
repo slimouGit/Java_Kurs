@@ -20,7 +20,7 @@ public class WeekDays {
         weekdays.put("Saturday", DaysOfWeek.SATURDAY);
         weekdays.put("Sunday", DaysOfWeek.SUNDAY);
 
-        findEnumDay(weekdays, 2);
+        findEnumDay(weekdays, 6);
     }
 
     private static void findEnumDay(Map<String, DaysOfWeek> weekdays, int i) {
