@@ -16,7 +16,7 @@ public class Abteilung {
         this.angestellte = angestellte;
     }
 
-    public List<Angestellter> getAngestellte() {
+     public List<Angestellter> getAngestellte() {
         return angestellte;
     }
 

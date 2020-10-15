@@ -17,4 +17,6 @@ public class Kaufhaus {
         this.abteilungen = abteilungen;
     }
 
+
+
 }
