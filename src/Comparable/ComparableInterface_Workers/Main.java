@@ -7,7 +7,7 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
-        Worker w1 = new Worker(6, "Anton", "Meier");
+        ComparableInterface_Workers.Worker w1 = new Worker(6, "Anton", "Meier");
         Worker w2 = new Worker(5, "Hans", "Bauer");
         Worker w3 = new Worker(3, "Peter", "Meier");
         Worker w4 = new Worker(2, "Peter", "Meier");

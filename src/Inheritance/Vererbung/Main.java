@@ -4,7 +4,7 @@ package Vererbung;
 public class Main {
 
     public static void main(String[] args) {
-        Dog dog = new Dog("Gaston",3,"white");
+        Vererbung.Dog dog = new Vererbung.Dog("Gaston",3,"white");
         dog.sleep();
         dog.bark();
         dog.sayColor();

@@ -1,4 +1,4 @@
-package Enums;
+package Enum.Enums;
 
 /**
  * Created by salim on 17.03.2019.
@@ -6,8 +6,8 @@ package Enums;
 public class Main {
     public static void main(String[] args){
 
-        Weekday weekday;
-        weekday = Weekday.FRIDAY;
+        Enums.Weekday weekday;
+        weekday = Enums.Weekday.FRIDAY;
 
         switch (weekday){
             case MONDAY: System.out.println("Montag");break;
