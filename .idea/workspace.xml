@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="some new stuff">
-      <change afterPath="$PROJECT_DIR$/src/Optional/Breed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Optional/Dog.java" afterDir="false" />
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Optional/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Optional/OptionalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +186,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -196,7 +194,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SearchAlgorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bwr-repo" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -421,7 +419,8 @@
       <workItem from="1630061410583" duration="24000" />
       <workItem from="1646246545331" duration="66000" />
       <workItem from="1646413791456" duration="10000" />
-      <workItem from="1646471880079" duration="7942000" />
+      <workItem from="1646471880079" duration="8062000" />
+      <workItem from="1647163480046" duration="3688000" />
     </task>
     <task id="LOCAL-00001" summary="LinkedHashMap counter">
       <created>1599668752873</created>
@@ -458,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602778463881</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="some optional Tests">
+      <created>1646502080448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646502080448</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -546,7 +552,8 @@
     <MESSAGE value="LinkedHashMap counter" />
     <MESSAGE value="some oop primitives" />
     <MESSAGE value="some new stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="some new stuff" />
+    <MESSAGE value="some optional Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="some optional Tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

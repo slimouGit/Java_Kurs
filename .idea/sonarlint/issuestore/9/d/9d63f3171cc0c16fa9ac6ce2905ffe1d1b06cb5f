@@ -1,0 +1,32 @@
+
+T
+java:S18547">Remove this useless assignment to local variable "emptyBreed".(öĞÇ’
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(›í—õøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÖ¡Ñüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áã…Ÿøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ‰øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç–Üƒúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì–íµ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(÷ş4
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(†¸ë…úÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(³“İ„øÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¸Şö³ûÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(¡çÚ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(úÓ¤
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(á¦Ç
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(†ûÏr
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ä¨ÈÑ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(½İïÔıÿÿÿÿ
+ƒ
+java:S1192"hDefine a constant instead of duplicating this literal "---------------------------------------" 3 times.(™çšùÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Dog 2 " 4 times.(Ç–Üƒúÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Gaston" 3 times.(Ì…­Ö
+e
+java:S1192"ODefine a constant instead of duplicating this literal " is breed set " 3 times.(ì–íµ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È¶ÜÍ
