@@ -1,6 +1,6 @@
 package Collections.HashMap_FindValue;
 
-import static org.junit.Assert.*;
+
 
 /**
  * User: salim
