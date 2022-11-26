@@ -11,7 +11,7 @@ public class Order {
             add("water");
         }
     };
-    public String loadOrder(String i) throws RuntimeException {
+    public String loadOrder(String i) {
         String requestedArticle = "";
         if(this.articles.contains(i)){
             requestedArticle = i;
@@ -19,5 +19,13 @@ public class Order {
             throw new RuntimeException("Article not available");
         }
         return requestedArticle;
+    }
+
+    public String loadArticleName1(String i) {
+        return null;
+    }
+
+    public void loadArticleName2(String i) {
+        throw new RuntimeException();
     }
 }
