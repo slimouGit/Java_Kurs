@@ -1,10 +1,11 @@
 package Recursion.Situps;
 
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
-import static junit.framework.TestCase.assertFalse;
-import static junit.framework.TestCase.assertTrue;
+
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class SitupChallengeTest {
 

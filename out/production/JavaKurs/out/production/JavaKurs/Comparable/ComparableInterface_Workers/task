@@ -1,0 +1,13 @@
+Aufgabenstellung
+
+In dieser Aufgabe sollst Du zunächst zwei Klassen erstellen. Einmal die Klasse Main, in der sich die main-Methode befindet und einmal die Klasse Worker, die eine Arbeitskraft modelliert.
+
+Die Klasse Worker soll lediglich zwei Attribute besitzen, nämlich einmal die Id (Ganzzahlige Nummer zur Identifizierung der Arbeitskraft) und den Nachnamen der Arbeitskraft.
+
+Deine Aufgabe ist nun ein Array zu erstellen, welches 5 Objekte der Klasse Worker fasst und jedem dieser Objekte soll direkt eine Id und ein Nachname zugewiesen werden.
+
+Das Array soll dann zunächst einmal ausgegeben werden. Daraufhin soll es sortiert werden und im Anschluss daran erneut ausgegeben werden.
+
+Nun zur Frage, wie das Array sortiert werden soll:
+
+Das Array soll alphabetisch nach dem Nachnamen sortiert werden. Sollten zwei Nachnamen exakt gleich sein, dann soll die Position der beiden betroffenen gleichen Objekte über die Id festgesetzt werden. Die kleinere Id soll zuerst abgespeichert werden.

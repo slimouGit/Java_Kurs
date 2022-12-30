@@ -1,14 +1,16 @@
 package Optional;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 import java.util.Optional;
 
-import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 
 public class OptionalExample02 {
 
-    @Test(expected = NullPointerException.class)
+    @Test
     public void givenNull_whenThrowsErrorOnCreate_thenCorrect() {
         String name = null;
         Optional.of(name);
