@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="uodate repo">
-      <change afterPath="$PROJECT_DIR$/src/CSV_Reading/CSVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSV_Reading/username.csv" afterDir="false" />
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="Read CSV and validate cell to cell">
+      <change afterPath="$PROJECT_DIR$/src/CSV_Reading/CsvToAvro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -436,7 +435,7 @@
       <workItem from="1671723048886" duration="414000" />
       <workItem from="1672246125282" duration="1474000" />
       <workItem from="1672390505532" duration="2214000" />
-      <workItem from="1673461770895" duration="1019000" />
+      <workItem from="1673461770895" duration="1696000" />
     </task>
     <task id="LOCAL-00001" summary="LinkedHashMap counter">
       <created>1599668752873</created>
@@ -557,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672396704935</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Read CSV and validate cell to cell">
+      <created>1673463059858</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673463059858</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -668,7 +674,8 @@
     <MESSAGE value="Publisher Subscriber Example" />
     <MESSAGE value="Publisher Subscriber University" />
     <MESSAGE value="uodate repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="uodate repo" />
+    <MESSAGE value="Read CSV and validate cell to cell" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read CSV and validate cell to cell" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -865,8 +872,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CSV_Reading/CSVReader.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="41" />
+          <line>43</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
