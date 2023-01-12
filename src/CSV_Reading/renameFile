@@ -1,0 +1,31 @@
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Comparator;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        String tempDirectory = System.getProperty("java.io.tmpdir");
+        Path tempPath = Paths.get(tempDirectory);
+        File tempDirectoryFile = tempPath.toFile();
+        File[] files = tempDirectoryFile.listFiles();
+        if (files == null) {
+            System.out.println("No files found in temp directory.");
+            return;
+        }
+        File lastModifiedFile = Arrays.stream(files)
+                .filter(file -> file.getName().endsWith(".tmp"))
+                .max(Comparator.comparingLong(File::lastModified))
+                .orElse(null);
+        if (lastModifiedFile != null) {
+            String newFileName = lastModifiedFile.getName().replaceAll("\\.tmp$", ".csv");
+            File newFile = new File(lastModifiedFile.getParent(), newFileName);
+            lastModifiedFile.renameTo(newFile);
+            System.out.println("Successfully renamed " + lastModifiedFile.getName() + " to " + newFile.getName());
+        } else {
+            System.out.println("No .tmp file found in temp directory.");
+        }
+    }
+}
