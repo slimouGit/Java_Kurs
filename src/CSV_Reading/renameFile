@@ -7,25 +7,17 @@ import java.util.Comparator;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String tempDirectory = System.getProperty("java.io.tmpdir");
-        Path tempPath = Paths.get(tempDirectory);
-        File tempDirectoryFile = tempPath.toFile();
-        File[] files = tempDirectoryFile.listFiles();
-        if (files == null) {
-            System.out.println("No files found in temp directory.");
-            return;
-        }
-        File lastModifiedFile = Arrays.stream(files)
-                .filter(file -> file.getName().endsWith(".tmp"))
-                .max(Comparator.comparingLong(File::lastModified))
-                .orElse(null);
-        if (lastModifiedFile != null) {
-            String newFileName = lastModifiedFile.getName().replaceAll("\\.tmp$", ".csv");
-            File newFile = new File(lastModifiedFile.getParent(), newFileName);
-            lastModifiedFile.renameTo(newFile);
-            System.out.println("Successfully renamed " + lastModifiedFile.getName() + " to " + newFile.getName());
-        } else {
-            System.out.println("No .tmp file found in temp directory.");
-        }
+        // Pfad des Temp-Verzeichnisses
+        String tempDir = System.getProperty("java.io.tmpdir");
+        File dir = new File(tempDir);
+
+        // Ermittle die letzte Datei im Temp-Verzeichnis
+        File lastModifiedFile = dir.listFiles()[dir.listFiles().length - 1];
+
+        // Erstelle den Pfad der neuen Datei
+        Path newFilePath = Paths.get(tempDir, lastModifiedFile.getName().replace(".tmp", ".csv"));
+
+        // Kopiere die Datei und ändere das Suffix
+        Files.copy(lastModifiedFile.toPath(), newFilePath);
     }
 }
