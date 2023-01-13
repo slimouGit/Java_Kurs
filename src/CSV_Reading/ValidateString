@@ -1,0 +1,46 @@
+string_with_newlines = "Spalte1;Spalte2;Spalte3;Spalte4;Spalte5;Spalte6;Spalte7\nSpalte1;Spalte2;Spalte3;Spalte4;Spalte5;Spalte6;\nSpalte1;Spalte2;Spalte3;Spalte4;Spalte5;Spalte6;Spalte7"
+lines = string_with_newlines.splitlines()
+for line in lines:
+    columns = line.split(";")
+    if len(columns) != 7:
+        print(f"{line} is not valid, because number of columns is not 7")
+    else:
+        is_valid = True
+        for i, col in enumerate(columns):
+            if i == 0:
+                if not re.match("^[A-Z]*$", col):
+                    print(f"{line} is not valid, because Column {i+1} is not valid")
+                    is_valid = False
+                    break
+            elif i == 1:
+                if not re.match("^[0-9]*$", col):
+                    print(f"{line} is not valid, because Column {i+1} is not valid")
+                    is_valid = False
+                    break
+            elif i == 2:
+                if not re.match("^[a-z]*$", col):
+                    print(f"{line} is not valid, because Column {i+1} is not valid")
+                    is_valid = False
+                    break
+            elif i == 3:
+                if not re.match("^[A-Za-z0-9]*$", col):
+                    print(f"{line} is not valid, because Column {i+1} is not valid")
+                    is_valid = False
+                    break
+            elif i == 4:
+                if not re.match("^[A-Za-z0-9]*$", col):
+                    print(f"{line} is not valid, because Column {i+1} is not valid")
+                    is_valid = False
+                    break
+            elif i == 5:
+                if not re.match("^[A-Za-z0-9]*$", col):
+                    print(f"{line} is not valid, because Column {i+1} is not valid")
+                    is_valid = False
+                    break
+            elif i == 6:
+                if not re.match("^[A-Za-z0-9]*$", col):
+                    print(f"{line} is not valid, because Column {i+1} is not valid")
+                    is_valid = False
+                    break
+        if is_valid:
+            print(f"{line} is valid")
