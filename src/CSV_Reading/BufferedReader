@@ -1,0 +1,23 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+BufferedReader reader = new BufferedReader(new FileReader("data.csv"));
+String line;
+while ((line = reader.readLine()) != null) {
+    String[] values = line.split(",");
+    for (int i = 0; i < values.length; i++) {
+        String value = values[i];
+        // Define regular expression pattern
+        String pattern = "^[^,]*$";
+        // Compile the pattern
+        Pattern r = Pattern.compile(pattern);
+        // Match the value against the pattern
+        Matcher m = r.matcher(value);
+        // Check if the value matches the pattern
+        if (!m.find()) {
+          System.out.println("Invalid value in column " + (i + 1) + ": " + value);
+        }
+    }
+}
