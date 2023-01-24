@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="avro example">
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="delete file">
+      <change afterPath="$PROJECT_DIR$/src/CSV_GenerateAndDownload/CSV_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSV_GenerateAndDownload/CSV_Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSV_Reading/renameFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CSV_Reading/CovertTmpToCsv" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSV_Reading/ConvertTmpToCsv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CSV_Reading/CsvToAvro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSV_Reading/CsvToAvro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CSV_Reading/renameFile" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSV_Reading/renameFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSV_Reading/renameFile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,22 +188,22 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/git_repo/bwr-repo",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.language"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/git_repo/bwr-repo&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Optional" />
@@ -438,7 +440,10 @@
       <workItem from="1672246125282" duration="1474000" />
       <workItem from="1672390505532" duration="2214000" />
       <workItem from="1673461770895" duration="1808000" />
-      <workItem from="1673542637496" duration="1537000" />
+      <workItem from="1673542637496" duration="1643000" />
+      <workItem from="1673626814691" duration="791000" />
+      <workItem from="1674492776770" duration="612000" />
+      <workItem from="1674579375549" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="LinkedHashMap counter">
       <created>1599668752873</created>
@@ -573,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673463504793</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="delete file">
+      <created>1673544230185</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673544230185</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -686,7 +698,8 @@
     <MESSAGE value="uodate repo" />
     <MESSAGE value="Read CSV and validate cell to cell" />
     <MESSAGE value="avro example" />
-    <option name="LAST_COMMIT_MESSAGE" value="avro example" />
+    <MESSAGE value="delete file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
