@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="delete file">
-      <change afterPath="$PROJECT_DIR$/src/CSV_GenerateAndDownload/CSV_Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSV_GenerateAndDownload/CSV_Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSV_Reading/renameFile.java" afterDir="false" />
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="csv controller">
+      <change afterPath="$PROJECT_DIR$/src/Loops/LoopsStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PDF_Generator/CreateMultiPagePdfFromByteArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CSV_Reading/CsvToAvro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSV_Reading/CsvToAvro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CSV_Reading/renameFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSV_GenerateAndDownload/CSV_Controller.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,22 +186,22 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/git_repo/bwr-repo&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/git_repo/JAVA/JavaKurs/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Optional" />
@@ -237,7 +235,7 @@
       <recent name="Collections.Queues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertTmpToCsv">
+  <component name="RunManager" selected="Application.LoopsStreams">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -300,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Observer.News.ObserverExample" />
+    <configuration name="CreateMultiPagePdfFromByteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDF_Generator.CreateMultiPagePdfFromByteArray" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Observer.News.*" />
+          <option name="PATTERN" value="PDF_Generator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Observer.PublisherSubscriber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Observer.PublisherSubscriber.Main" />
+    <configuration name="LoopsStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.LoopsStreams" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Observer.PublisherSubscriber.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,19 +362,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.LoopsStreams" />
+      <item itemvalue="Application.CreateMultiPagePdfFromByteArray" />
       <item itemvalue="Application.ConvertTmpToCsv" />
       <item itemvalue="Application.CSVReader" />
       <item itemvalue="Application.Observer.University.Main" />
-      <item itemvalue="Application.Observer.PublisherSubscriber.Main" />
-      <item itemvalue="Application.ObserverExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopsStreams" />
+        <item itemvalue="Application.CreateMultiPagePdfFromByteArray" />
         <item itemvalue="Application.ConvertTmpToCsv" />
         <item itemvalue="Application.CSVReader" />
         <item itemvalue="Application.Observer.University.Main" />
-        <item itemvalue="Application.Observer.PublisherSubscriber.Main" />
-        <item itemvalue="Application.ObserverExample" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +441,11 @@
       <workItem from="1673542637496" duration="1643000" />
       <workItem from="1673626814691" duration="791000" />
       <workItem from="1674492776770" duration="612000" />
-      <workItem from="1674579375549" duration="605000" />
+      <workItem from="1674579375549" duration="772000" />
+      <workItem from="1676725153141" duration="745000" />
+      <workItem from="1677260021677" duration="605000" />
+      <workItem from="1682094684401" duration="31000" />
+      <workItem from="1703770704215" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="LinkedHashMap counter">
       <created>1599668752873</created>
@@ -585,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673544230185</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="csv controller">
+      <created>1674580041536</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674580041536</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -699,7 +708,8 @@
     <MESSAGE value="Read CSV and validate cell to cell" />
     <MESSAGE value="avro example" />
     <MESSAGE value="delete file" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete file" />
+    <MESSAGE value="csv controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="csv controller" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -933,6 +943,16 @@
           <url>file://$PROJECT_DIR$/src/CSV_Reading/ConvertTmpToCsv.java</url>
           <line>29</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PDF_Generator/CreateMultiPagePdfFromByteArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PDF_Generator/CreateMultiPagePdfFromByteArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
