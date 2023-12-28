@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="csv controller">
-      <change afterPath="$PROJECT_DIR$/src/Loops/LoopsStreams.java" afterDir="false" />
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="IntStream">
+      <change afterPath="$PROJECT_DIR$/src/Collections/HashMap_Search/HashMap_Search.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PDF_Generator/CreateMultiPagePdfFromByteArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CSV_GenerateAndDownload/CSV_Controller.java" beforeDir="false" />
@@ -186,22 +186,22 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/git_repo/JAVA/JavaKurs/src",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.language"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/git_repo/JAVA/JavaKurs/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Optional" />
@@ -210,11 +210,11 @@
       <recent name="Enums_Shop" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_repo\JAVA\JavaKurs\src" />
       <recent name="E:\git_repo\JAVA\JavaKurs\src\Observer\University" />
       <recent name="E:\git_repo\JAVA\JavaKurs\src\Observer" />
       <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Lambda\_002_Comparator" />
       <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Thread\Thread_Join" />
-      <recent name="C:\xampp\htdocs\Java_Sandbox\JavaKurs\src\Thread\Thread_Priorisieren" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -228,14 +228,14 @@
       <recent name="Collections.HashMap_FindValue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Loops" />
       <recent name="Observer.University" />
       <recent name="Streams" />
       <recent name="Equals_Hashmap" />
       <recent name="Collections.Queues_PriorityQueue" />
-      <recent name="Collections.Queues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoopsStreams">
+  <component name="RunManager" selected="Application.HashMap_Search">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -311,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.LoopsStreams" />
+    <configuration name="HashMap_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashMap_Search.HashMap_Search" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.*" />
+          <option name="PATTERN" value="Collections.HashMap_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Observer.University.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Observer.University.Main" />
+    <configuration name="LoopsStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.LoopsStreams" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Observer.University.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,19 +362,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.HashMap_Search" />
       <item itemvalue="Application.LoopsStreams" />
       <item itemvalue="Application.CreateMultiPagePdfFromByteArray" />
       <item itemvalue="Application.ConvertTmpToCsv" />
       <item itemvalue="Application.CSVReader" />
-      <item itemvalue="Application.Observer.University.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMap_Search" />
         <item itemvalue="Application.LoopsStreams" />
         <item itemvalue="Application.CreateMultiPagePdfFromByteArray" />
         <item itemvalue="Application.ConvertTmpToCsv" />
         <item itemvalue="Application.CSVReader" />
-        <item itemvalue="Application.Observer.University.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +445,8 @@
       <workItem from="1676725153141" duration="745000" />
       <workItem from="1677260021677" duration="605000" />
       <workItem from="1682094684401" duration="31000" />
-      <workItem from="1703770704215" duration="329000" />
+      <workItem from="1703770704215" duration="799000" />
+      <workItem from="1703771934246" duration="1354000" />
     </task>
     <task id="LOCAL-00001" summary="LinkedHashMap counter">
       <created>1599668752873</created>
@@ -594,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674580041536</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="IntStream">
+      <created>1703771127115</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1703771127115</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -709,7 +717,8 @@
     <MESSAGE value="avro example" />
     <MESSAGE value="delete file" />
     <MESSAGE value="csv controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="csv controller" />
+    <MESSAGE value="IntStream" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntStream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
