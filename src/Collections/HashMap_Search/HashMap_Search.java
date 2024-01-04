@@ -27,12 +27,26 @@ public class HashMap_Search {
         computeIfAbsentMap(computeIfAbsent, "germany", "Frankfurt");
         computeIfAbsentMap(computeIfAbsent, "germany", "Hamburg");
         computeIfAbsentMap(computeIfAbsent, "usa", "New York");
+        computeIfAbsentMap(computeIfAbsent, "tunisia", "Tunis");
+
+        
+        System.out.println("Value inside? " + searchValue(computeIfAbsent, "germany", "Frankfurt"));
+        System.out.println("Value inside? " + searchValue(computeIfAbsent, "germany", "Kassel"));
+        
 
         /**
          * If the country already exists, the method does nothing and returns the existing value associated with the key, but if country is a new string to the map, putIfAbsent()returns null, resulting a NullPointerException .
          */
 //        Map<String, List<String>> putIfAbsent = new HashMap<>();
 //        putIfAbsentMap(putIfAbsent, "germany", "Frankfurt");
+    }
+
+    private static boolean searchValue(Map<String, List<String>> map, String country, String city) {
+        if (map.containsKey(country)) {
+            List<String> cities = map.get(country);
+            return cities.contains(city);
+        }
+        return false;
     }
 
     private static void putIfAbsentMap(Map<String, List<String>> map, String country, String city) {
@@ -64,6 +78,10 @@ public class HashMap_Search {
             cities.add(city);
             map.put(country, cities);
         }
+        System.out.println("simpleSearchMap " + map);
+    }
+    private static void simpleSearch2(Map<String, List<String>> map, String country, String city) {
+        map.computeIfAbsent(country, k -> new ArrayList<>()).add(city);
         System.out.println("simpleSearchMap " + map);
     }
 }

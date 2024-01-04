@@ -1,11 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="IntStream">
       <change afterPath="$PROJECT_DIR$/src/Collections/HashMap_Search/HashMap_Search.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PDF_Generator/CreateMultiPagePdfFromByteArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CSV_GenerateAndDownload/CSV_Controller.java" beforeDir="false" />
+=======
+    <list default="true" id="1ffc43a7-598b-465e-be8a-4732909eaf1c" name="Default" comment="write String to CSV">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaKurs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKurs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Abstract/AbstractClasses/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Abstract/AbstractClasses/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Abstract/AbstractClasses/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Abstract/AbstractClasses/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Abstract/AbstractClasses/Mercedes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Abstract/AbstractClasses/Mercedes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Abstract/AbstractClasses/SKlasse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Abstract/AbstractClasses/SKlasse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses/Drivaeable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses/Drivaeable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Adidas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Adidas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Nike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Nike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/NmdR1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/NmdR1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Shoe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Shoe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Timberland.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/Timberland.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/ultraBoost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/AbstractClasses_Schugeschaeft/ultraBoost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Challenges/Rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Challenges/Rotate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Challenges/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Challenges/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_False/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_False/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_False/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_False/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/SuperPower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Human/SuperPower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/CarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/CarEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/CarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/CarEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Clone_CopyConstructor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_flacheKopie/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/CarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/CarEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Clone/Clone_Method_tiefeKopie/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Cow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_Company/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_sortieren/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ArrayList_sortieren/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_FindValue/WeekDays$DaysOfWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_FindValue/WeekDays$DaysOfWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_FindValue/WeekDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_FindValue/WeekDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_FindValue/WeekDaysTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_FindValue/WeekDaysTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_MultiLanguage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashMap_MultiLanguage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashSet/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/HashSet/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Iterator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Iterator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Iterator/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Iterator/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/LinkedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ListToSet/ListToSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/ListToSet/ListToSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Castaway.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Castaway.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Gender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queue_PriorityQueue_Shipwreck/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue_Rescue/Injured.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue_Rescue/Injured.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue_Rescue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Queues_PriorityQueue_Rescue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Set_Students/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Set_Students/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Set_Students/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/Set_Students/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/TreeSet/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/TreeSet/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Collections/TreeSet/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Collections/TreeSet/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Comparable/ComparableInterface_Workers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Comparable/ComparableInterface_Workers/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface_Workers/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/ComparableInterface_Workers/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/GrandmasSilverware/Cutlary/Fork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/GrandmasSilverware/Cutlary/Fork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/GrandmasSilverware/Cutlary/Knife.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/GrandmasSilverware/Cutlary/Knife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/GrandmasSilverware/Cutlary/Spoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/GrandmasSilverware/Cutlary/Spoon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/GrandmasSilverware/CutlaryTray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/GrandmasSilverware/CutlaryTray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/CleaningRoboter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/CleaningRoboter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Pet/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Drehbar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Klopfbar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/NutzungsweiseWerkzeuge/Ziehbar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Hammer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Hammer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Schraubendreher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Totenkopf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Totenkopf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Werkzeug.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Zange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeug/Zange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeugkoffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/Werkzeugkoffer/Werkzeugkoffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/simpleExample/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/simpleExample/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/simpleExample/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/simpleExample/Door.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/simpleExample/as_Inheritance/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/simpleExample/as_Inheritance/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Composition/simpleExample/as_Inheritance/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Composition/simpleExample/as_Inheritance/Door.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Constructor/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Constructor/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Constructor/OverloadingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Constructor/OverloadingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enum/Enums/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enum/Enums/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enum/Enums/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enum/Enums/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums/Weekday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums/Weekday.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Alkohol/Alkohol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Alkohol/Alkohol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Alkohol/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Alkohol/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_HappyEuro/FixKosten.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_HappyEuro/FixKosten.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_HappyEuro/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_HappyEuro/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Currency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Pencil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Pencil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Pricelist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Pricelist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Enums_Shop/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/EqualTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Equal/EqualTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals_Hashmap_Danceschool/Dancer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals_Hashmap_Danceschool/Dancer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals_Hashmap_Danceschool/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Equals_Hashmap_Danceschool/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Moof.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Equal/Moof.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Array/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Array/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/LessCreditException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/LessCreditException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/LessWithdrawException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/LessWithdrawException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/BankAccountException/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/Auftrag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/Auftrag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragHandler$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragHandler$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragHandler$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Auftrag/AuftragTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Order$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Order$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/OrderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Example/OrderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exception_throwConditional/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exception_throwConditional/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exception_throwConditional/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exception_throwConditional/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/ToOldException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/Exceptions_try_catch/ToOldException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/Heater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/Heater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/HeaterException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/HeaterException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/HeaterException/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/ToOldException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnException/ToOldException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/ToOldException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Exception/OwnExceptionWithMessage/ToOldException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Plate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Plate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Spoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Generics/Spoon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics_Methoden/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Generics_Methoden/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Generics_Methoden/Texter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Generics_Methoden/Texter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/HashCode/HashTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/HashCode/HashTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/HashCode/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/HashCode/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interface/Interfaces/Buyable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interface/Interfaces/Buyable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interface/Interfaces/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interface/Interfaces/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interface/Interfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interface/Interfaces/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/SupermarketProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/SupermarketProducts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Transportable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces/Transportable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Audi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Audi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/MoveCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/MoveCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Tesla.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Interfaces_Fuhrpark/Tesla.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/CodeToRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/CodeToRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_001/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/EmployeeLambdaSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/EmployeeLambdaSorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Lambda/_002_Comparator/Main_withoutLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Mapping/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Mapping/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Mapping/ArticleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Mapping/ArticleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/OOP/Firma/Abteilung.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/OOP/Firma/Abteilung.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/OOP/Firma/Angestellter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/OOP/Firma/Angestellter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/OOP/Firma/Kaufhaus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/OOP/Firma/Kaufhaus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/OOP/Firma/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/OOP/Firma/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/News/FirstNewsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/News/FirstNewsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/News/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/News/News.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/News/ObserverExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/News/ObserverExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/News/SecondNewsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/News/SecondNewsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/NewsPublisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/NewsPublisher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/NewsSubscriber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/NewsSubscriber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/Publisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/Publisher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/Subscriber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/PublisherSubscriber/Subscriber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Falility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Falility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Publisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Publisher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Subscriber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Observer/University/Subscriber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Optional/Breed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Optional/Breed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Optional/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Optional/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Optional/OptionalExample02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Optional/OptionalExample02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Optional/OptionalOr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Optional/OptionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Optional/OptionalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Predicates/PredicateExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Predicates/PredicateExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_01_CaseStudy/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_01_CaseStudy/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_01_CaseStudy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_01_CaseStudy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Addition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Addition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Division.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Division.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Multiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Multiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Operator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/OperatorFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/OperatorFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Substract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Prevent_IfStatements/_02_AlternateSolution/Substract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Situps/BodyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Situps/BodyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Situps/SitupChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Situps/SitupChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Situps/SitupChallengeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Situps/SitupChallengeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Wodka/Wodka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Wodka/Wodka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Wodka/WodkaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Recursion/Wodka/WodkaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_001_square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_001_square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_002_filterFirstLetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_002_filterFirstLetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_003_forEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_003_forEach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_004_convertToSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_004_convertToSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_005_mapListToMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Streams/Stream_005_mapListToMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/ToString/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/ToString/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/charAt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/charAt/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/endsWith/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/endsWith/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/indexOf/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/indexOf/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/isEmpty/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/isEmpty/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/lastIndexOf/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/lastIndexOf/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/lenght/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/lenght/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/startsWith/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/startsWith/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/substring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/substring/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/toLowerCase/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/toLowerCase/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/toUpperCase/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/toUpperCase/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/String/trim/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/String/trim/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_001/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_001/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_001/Thread_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_001/Thread_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_002/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_002/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_002/Thread_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_002/Thread_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_03/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_03/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_03/Thread_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_03/Thread_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Join/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Join/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Join/Thread_Join.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Join/Thread_Join.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Priorisieren/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Priorisieren/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Priorisieren/Thread_Priorisieren.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Thread/Thread_Priorisieren/Thread_Priorisieren.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/ToString/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/ToString/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/VarArgs/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/VarArgs/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/VarArgs/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/VarArgs/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/VarArgs/TeamBuilding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/VarArgs/TeamBuilding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/KfW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/KfW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Labrador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Labrador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/UniCredit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung/UniCredit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/CommerzBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/CommerzBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/DeutscheBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/DeutscheBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Bank/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Assistant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Assistant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/Vererbung_Company/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaKurs/WrapperKlassen/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaKurs/WrapperKlassen/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSV_Reading/CsvToAvro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/Example/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/Example/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Optional/OptionalOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Optional/OptionalOr.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +461,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+<<<<<<< Updated upstream
     &quot;last_opened_file_path&quot;: &quot;E:/git_repo/JAVA/JavaKurs/src&quot;,
+=======
+    &quot;last_opened_file_path&quot;: &quot;E:/git_repo/bwr-repo&quot;,
+>>>>>>> Stashed changes
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -235,7 +505,11 @@
       <recent name="Collections.Queues_PriorityQueue" />
     </key>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Application.HashMap_Search">
+=======
+  <component name="RunManager" selected="Application.CSV_Writer">
+>>>>>>> Stashed changes
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -285,12 +559,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertTmpToCsv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSV_Reading.ConvertTmpToCsv" />
+    <configuration name="CSV_Writer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSV_Writing.CSV_Writer" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CSV_Reading.*" />
+          <option name="PATTERN" value="CSV_Writing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +572,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="CreateMultiPagePdfFromByteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PDF_Generator.CreateMultiPagePdfFromByteArray" />
       <module name="JavaKurs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PDF_Generator.*" />
+=======
+    <configuration name="ConvertTmpToCsv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSV_Reading.ConvertTmpToCsv" />
+      <module name="JavaKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CSV_Reading.*" />
+>>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,6 +645,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< Updated upstream
       <item itemvalue="Application.HashMap_Search" />
       <item itemvalue="Application.LoopsStreams" />
       <item itemvalue="Application.CreateMultiPagePdfFromByteArray" />
@@ -375,6 +659,21 @@
         <item itemvalue="Application.CreateMultiPagePdfFromByteArray" />
         <item itemvalue="Application.ConvertTmpToCsv" />
         <item itemvalue="Application.CSVReader" />
+=======
+      <item itemvalue="Application.CSV_Writer" />
+      <item itemvalue="Application.ConvertTmpToCsv" />
+      <item itemvalue="Application.CSVReader" />
+      <item itemvalue="Application.Observer.University.Main" />
+      <item itemvalue="Application.Observer.PublisherSubscriber.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CSV_Writer" />
+        <item itemvalue="Application.ConvertTmpToCsv" />
+        <item itemvalue="Application.CSVReader" />
+        <item itemvalue="Application.Observer.University.Main" />
+        <item itemvalue="Application.Observer.PublisherSubscriber.Main" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -581,6 +880,7 @@
       <option name="project" value="LOCAL" />
       <updated>1673463504793</updated>
     </task>
+<<<<<<< Updated upstream
     <task id="LOCAL-00020" summary="delete file">
       <created>1673544230185</created>
       <option name="number" value="00020" />
@@ -603,6 +903,16 @@
       <updated>1703771127115</updated>
     </task>
     <option name="localTasksCounter" value="23" />
+=======
+    <task id="LOCAL-00020" summary="write String to CSV">
+      <created>1674138412520</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674138412520</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TestHistory">
@@ -715,10 +1025,15 @@
     <MESSAGE value="uodate repo" />
     <MESSAGE value="Read CSV and validate cell to cell" />
     <MESSAGE value="avro example" />
+<<<<<<< Updated upstream
     <MESSAGE value="delete file" />
     <MESSAGE value="csv controller" />
     <MESSAGE value="IntStream" />
     <option name="LAST_COMMIT_MESSAGE" value="IntStream" />
+=======
+    <MESSAGE value="write String to CSV" />
+    <option name="LAST_COMMIT_MESSAGE" value="write String to CSV" />
+>>>>>>> Stashed changes
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -815,17 +1130,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Exception/Example/OrderTest.java</url>
-          <line>41</line>
+          <line>40</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Exception/Example/OrderTest.java</url>
-          <line>42</line>
+          <line>41</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Exception/Example/OrderTest.java</url>
-          <line>43</line>
+          <line>42</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -880,17 +1195,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Exception/Example/OrderTest.java</url>
-          <line>28</line>
+          <line>27</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Exception/Example/OrderTest.java</url>
-          <line>29</line>
+          <line>28</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Exception/Example/OrderTest.java</url>
-          <line>30</line>
+          <line>29</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1234,7 +1549,7 @@
     <entry file="file://$PROJECT_DIR$/src/OOP/Firma/Abteilungsleiter.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP/Firma/Fachkraft.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP/Firma/Angesteller.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Object.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk1.8.0/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
