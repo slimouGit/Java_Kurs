@@ -1,0 +1,51 @@
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class StringValidator {
+  public static void validateString(String input) {
+    String[] lines = input.split("\n");
+
+    for (int i = 1; i < lines.length; i++) {
+      String[] columns = lines[i].split(";");
+      if (columns.length != 7) {
+        System.out.println(lines[i] + " is not valid, because number of columns is not 7");
+        continue;
+      }
+
+      boolean isValid = true;
+      for (int j = 0; j < columns.length; j++) {
+        String col = columns[j];
+        if (j == 0) {
+          if (!col.matches("^[A-Z]*$")) {
+            System.out.println(lines[i] + " is not valid, because Column " + (j + 1) + " is not valid");
+            isValid = false;
+            break;
+          }
+        } else if (j == 1) {
+          if (!col.matches("^[0-9]*$")) {
+            System.out.println(lines[i] + " is not valid, because Column " + (j + 1) + " is not valid");
+            isValid = false;
+            break;
+          }
+        } else if (j == 2) {
+          if (!col.matches("^[a-z]*$")) {
+            System.out.println(lines[i] + " is not valid, because Column " + (j + 1) + " is not valid");
+            isValid = false;
+            break;
+          }
+        } else if (j == 3) {
+          if (!col.matches("^[A-Za-z0-9]*$")) {
+            System.out.println(lines[i] + " is not valid, because Column " + (j + 1) + " is not valid");
+            isValid = false;
+            break;
+          }
+        } else if (j == 4) {
+          if (!col.matches("^[A-Za-z0-9]*$")) {
+            System.out.println(lines[i] + " is not valid, because Column " + (j + 1) + " is not valid");
+            isValid = false;
+            break;
+          }
+        } else if (j == 5) {
+          if (!col.matches("^[A-Za-z0-9]*$")) {
+            System.out.println(lines[i] + " is not valid, because Column " + (j + 1) + " is not valid");
+            isValid =

@@ -1,4 +1,4 @@
-package ComparableInterface_Workers;
+package Comparable.ComparableInterface_Workers;
 
 /**
  * Created by salim on 23.03.2019.

@@ -7,15 +7,15 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
-        ComparableInterface_Workers.Worker w1 = new ComparableInterface_Workers.Worker(6, "Anton", "Meier");
-        ComparableInterface_Workers.Worker w2 = new ComparableInterface_Workers.Worker(5, "Hans", "Bauer");
-        ComparableInterface_Workers.Worker w3 = new ComparableInterface_Workers.Worker(3, "Peter", "Meier");
-        ComparableInterface_Workers.Worker w4 = new ComparableInterface_Workers.Worker(2, "Peter", "Meier");
-        ComparableInterface_Workers.Worker w5 = new ComparableInterface_Workers.Worker(9, "Stefan", "Brecht");
+        Worker w1 = new Worker(6, "Anton", "Meier");
+        Worker w2 = new Worker(5, "Hans", "Bauer");
+        Worker w3 = new Worker(3, "Peter", "Meier");
+        Worker w4 = new Worker(2, "Peter", "Meier");
+        Worker w5 = new Worker(9, "Stefan", "Brecht");
 
-        ComparableInterface_Workers.Worker[] workers = new ComparableInterface_Workers.Worker[]{w1, w2, w3, w4, w5};
+        Worker[] workers = new Worker[]{w1, w2, w3, w4, w5};
 
-        for (ComparableInterface_Workers.Worker worker : workers) {
+        for (Worker worker : workers) {
             System.out.println(worker.toString());
         }
 
@@ -23,7 +23,7 @@ public class Main {
 
         Arrays.sort(workers);
 
-        for (ComparableInterface_Workers.Worker worker : workers) {
+        for (Worker worker : workers) {
             System.out.println(worker.toString());
         }
 
